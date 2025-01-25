@@ -1,6 +1,6 @@
 /*=============================================================
 FileName: Create_Database_And_Tables.sql
-Programmer: Mpotjo Nyofane
+Programmer: Sylvester N
 Description: This file will create the database and tables with the necessary constraints.
 =============================================================*/
 
